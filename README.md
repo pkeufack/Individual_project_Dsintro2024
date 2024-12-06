@@ -1,2 +1,2 @@
 # Individual_project_Dsintro2024
-In this project
+This study investigates the critical factors influencing housing prices, focusing on properties in and around the Boston area. Utilizing publicly available datasets, the research explores key variables such as location, property size, proximity to amenities, and prevailing market trends. By employing data visualization and statistical analysis, this project aims to uncover patterns and provide actionable insights for prospective buyers, sellers, and policymakers. The findings seek to enhance understanding of the Boston housing market and support informed decision-making in real estate transactions.
